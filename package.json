@@ -1,0 +1,10 @@
+{
+  "name": "qiita-contents",
+  "version": "1.0.0",
+  "repository": "git@github_libra189:libra189/qiita-contents.git",
+  "author": "libra189 <libra189@gmail.com>",
+  "private": true,
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.0.0"
+  }
+}
